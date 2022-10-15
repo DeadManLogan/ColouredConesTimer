@@ -1,0 +1,23 @@
+.components {
+    min-height: 100vh;
+}
+
+::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+}
+
+.button {
+    background-color: #9fffe0;
+    color: black;
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+
+.button:hover {
+    background-color: #69f0ae;
+}
+
+.button_size {
+    width: 20vw;
+    height: 15vh;
+}

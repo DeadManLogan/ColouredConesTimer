@@ -1,10 +1,10 @@
 import './App.css';
-import { StartButton } from './Components/StartButton'
+import Timer from './Components/Timer'
 
 function App() {
   return (
     <div className="App">
-      <StartButton />
+      <Timer />
     </div>
   );
 }

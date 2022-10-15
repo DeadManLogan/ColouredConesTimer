@@ -1,0 +1,16 @@
+.cone-number {
+    font-size: 10rem;
+    margin-top: 18vh;
+}
+
+.card {
+    width: 25vw;
+    height: 70vh;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.card-container {
+    vertical-align: center;
+    margin-bottom: 5rem;
+}
