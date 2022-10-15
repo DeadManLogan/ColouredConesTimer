@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DeadManLogan/ColouredConesTimer/static/css/main.7334bf4b.css",
+    "main.js": "/DeadManLogan/ColouredConesTimer/static/js/main.5ca7838d.js",
+    "index.html": "/DeadManLogan/ColouredConesTimer/index.html",
+    "main.7334bf4b.css.map": "/DeadManLogan/ColouredConesTimer/static/css/main.7334bf4b.css.map",
+    "main.5ca7838d.js.map": "/DeadManLogan/ColouredConesTimer/static/js/main.5ca7838d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7334bf4b.css",
+    "static/js/main.5ca7838d.js"
+  ]
+}
